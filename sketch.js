@@ -56,4 +56,4 @@ function movimentaMinhaRaquete() {
   if(keyIsDown(DOWN_ARROW)) {
     yRaquete += 10;
   }
-}
+
